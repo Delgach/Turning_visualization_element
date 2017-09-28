@@ -1,0 +1,8 @@
+C:\Users\vl\Desktop\WindowsFormsApplication1\obj\x86\Debug\VisualizationElementOfTurning.csprojResolveAssemblyReference.cache
+C:\Users\vl\Desktop\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\vl\Desktop\WindowsFormsApplication1\obj\x86\Debug\VisualizationElementOfTurning.csproj.GenerateResource.Cache
+C:\Users\vl\Desktop\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\vl\Desktop\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\vl\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\vl\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\vl\Desktop\WindowsFormsApplication1\obj\x86\Debug\VisualizationElementOfTurning.MainForm.resources
